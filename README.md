@@ -5,4 +5,4 @@ In this exercise I will:
 - Create a new branch
 - Make edits to the readme file
 - Commit the changes
-- Merge into Master branch
+- Merge back into Master branch
